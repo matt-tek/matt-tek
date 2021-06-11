@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C, C++, JavaScript**
 
-- 📫 How to reach me mathieu.muty@epitech.eu **mathieu.muty@epitech.eu**
+- 📫 How to reach me : **mathieu.muty@epitech.eu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
