@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **data structure, web developpement**
 
-- 🌱 I’m currently learning **C, C++, JavaScript CSS HTML**
+- 🌱 I’m currently learning **C, C++, JavaScript, CSS, HTML**
 
 - 📫 How to reach me : **mathieu.muty@epitech.eu**
 
