@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm mathieu</h1>
-<h3 align="center">A passionate studiant at EPITECH Réunion</h3>
+<h3 align="center">A passionate student at EPITECH Réunion</h3>
 
 - 🔭 I’m currently working on **data structure, web developpement**
 
